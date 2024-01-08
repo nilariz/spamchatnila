@@ -1,1 +1,1 @@
-# spamchatnila
+# spam-sms-classifier
